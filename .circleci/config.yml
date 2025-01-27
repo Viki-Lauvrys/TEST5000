@@ -1,0 +1,40 @@
+version: 2.1
+
+executors:
+  main_executor:
+    docker:
+      - image: ubuntu:22.04
+
+jobs:
+  build:
+    resource_class: small
+    executor: main_executor
+    working_directory: ~/project
+    steps:
+      - checkout
+      - run: apt update
+      - run: DEBIAN_FRONTEND=noninteractive TZ=Europe/Brussels apt install -y gcc g++ libsfml-dev cmake git
+      - run:
+          name: Install Dependencies
+          command: |
+            apt-get update
+            apt-get install -y \
+            build-essential \
+            cmake \
+            libcsfml-dev \
+            pkg-config \
+            libudev-dev
+
+      - run:
+          name: Configure Build
+          command: |
+            mkdir -p build
+            cd build
+            cmake ..
+            make
+
+workflows:
+  version: 2
+  build-and-test-workflow:
+    jobs:
+      - build

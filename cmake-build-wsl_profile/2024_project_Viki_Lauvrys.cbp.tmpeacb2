@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="2024_project_Viki_Lauvrys"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\cmake-build-wsl_profile\;CMake Files\cmake-build-wsl_profile\_deps\;CMake Files\cmake-build-wsl_profile\_deps\sfml-src\;CMake Files\cmake-build-wsl_profile\_deps\sfml-src\cmake\;CMake Files\cmake-build-wsl_profile\_deps\sfml-src\cmake\Modules\;CMake Files\cmake-build-wsl_profile\_deps\sfml-src\tools\;CMake Files\cmake-build-wsl_profile\_deps\sfml-src\tools\pkg-config\;CMake Files\cmake-build-wsl_profile\_deps\sfml-src\src\;CMake Files\cmake-build-wsl_profile\_deps\sfml-src\src\SFML\;CMake Files\cmake-build-wsl_profile\_deps\sfml-src\src\SFML\System\;CMake Files\cmake-build-wsl_profile\_deps\sfml-src\src\SFML\Window\;CMake Files\cmake-build-wsl_profile\_deps\sfml-src\src\SFML\Network\;CMake Files\cmake-build-wsl_profile\_deps\sfml-src\src\SFML\Graphics\;CMake Files\cmake-build-wsl_profile\_deps\sfml-src\src\SFML\Audio\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e jaar/Advanced Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e\ jaar/Advanced\ Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e\ jaar/Advanced\ Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e\ jaar/Advanced\ Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e\ jaar/Advanced\ Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install/strip">
+				<Option working_dir="/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e jaar/Advanced Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e\ jaar/Advanced\ Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/Makefile&quot;  VERBOSE=1 install/strip"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e\ jaar/Advanced\ Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e\ jaar/Advanced\ Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e\ jaar/Advanced\ Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install/local">
+				<Option working_dir="/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e jaar/Advanced Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e\ jaar/Advanced\ Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/Makefile&quot;  VERBOSE=1 install/local"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e\ jaar/Advanced\ Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e\ jaar/Advanced\ Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e\ jaar/Advanced\ Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e jaar/Advanced Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e\ jaar/Advanced\ Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e\ jaar/Advanced\ Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e\ jaar/Advanced\ Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e\ jaar/Advanced\ Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install">
+				<Option working_dir="/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e jaar/Advanced Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e\ jaar/Advanced\ Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/Makefile&quot;  VERBOSE=1 install"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e\ jaar/Advanced\ Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e\ jaar/Advanced\ Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e\ jaar/Advanced\ Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="list_install_components">
+				<Option working_dir="/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e jaar/Advanced Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e\ jaar/Advanced\ Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/Makefile&quot;  VERBOSE=1 list_install_components"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e\ jaar/Advanced\ Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e\ jaar/Advanced\ Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e\ jaar/Advanced\ Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="DOODLE_LIB">
+				<Option output="/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e jaar/Advanced Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/libDOODLE_LIB.so" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e jaar/Advanced Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile"/>
+				<Option object_output="./"/>
+				<Option type="3"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/13"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/13"/>
+					<Add directory="/usr/include/c++/13/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/13/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e\ jaar/Advanced\ Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/Makefile&quot;  VERBOSE=1 DOODLE_LIB"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e\ jaar/Advanced\ Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e\ jaar/Advanced\ Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e\ jaar/Advanced\ Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="DOODLE_LIB/fast">
+				<Option output="/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e jaar/Advanced Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/libDOODLE_LIB.so" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e jaar/Advanced Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile"/>
+				<Option object_output="./"/>
+				<Option type="3"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/13"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/13"/>
+					<Add directory="/usr/include/c++/13/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/13/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e\ jaar/Advanced\ Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/Makefile&quot;  VERBOSE=1 DOODLE_LIB/fast"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e\ jaar/Advanced\ Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e\ jaar/Advanced\ Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e\ jaar/Advanced\ Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="DOODLE_JUMP">
+				<Option output="/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e jaar/Advanced Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/DOODLE_JUMP" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e jaar/Advanced Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DSFML_STATIC"/>
+					<Add directory="/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e jaar/Advanced Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/_deps/sfml-src/include"/>
+					<Add directory="/usr/include/c++/13"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/13"/>
+					<Add directory="/usr/include/c++/13/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/13/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e\ jaar/Advanced\ Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/Makefile&quot;  VERBOSE=1 DOODLE_JUMP"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e\ jaar/Advanced\ Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e\ jaar/Advanced\ Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e\ jaar/Advanced\ Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="DOODLE_JUMP/fast">
+				<Option output="/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e jaar/Advanced Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/DOODLE_JUMP" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e jaar/Advanced Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DSFML_STATIC"/>
+					<Add directory="/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e jaar/Advanced Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/_deps/sfml-src/include"/>
+					<Add directory="/usr/include/c++/13"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/13"/>
+					<Add directory="/usr/include/c++/13/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/13/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e\ jaar/Advanced\ Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/Makefile&quot;  VERBOSE=1 DOODLE_JUMP/fast"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e\ jaar/Advanced\ Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e\ jaar/Advanced\ Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e\ jaar/Advanced\ Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e jaar/Advanced Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e\ jaar/Advanced\ Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e\ jaar/Advanced\ Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e\ jaar/Advanced\ Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e\ jaar/Advanced\ Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sfml-system">
+				<Option output="/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e jaar/Advanced Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/_deps/sfml-build/lib/libsfml-system-s-d.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e jaar/Advanced Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/_deps/sfml-build/src/SFML/System"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DSFML_STATIC"/>
+					<Add directory="/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e jaar/Advanced Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/_deps/sfml-src/include"/>
+					<Add directory="/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e jaar/Advanced Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/_deps/sfml-src/src"/>
+					<Add directory="/usr/include/c++/13"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/13"/>
+					<Add directory="/usr/include/c++/13/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/13/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e\ jaar/Advanced\ Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/_deps/sfml-build/src/SFML/System/Makefile&quot;  VERBOSE=1 sfml-system"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e\ jaar/Advanced\ Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/_deps/sfml-build/src/SFML/System/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e\ jaar/Advanced\ Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/_deps/sfml-build/src/SFML/System/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e\ jaar/Advanced\ Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/_deps/sfml-build/src/SFML/System/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sfml-system/fast">
+				<Option output="/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e jaar/Advanced Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/_deps/sfml-build/lib/libsfml-system-s-d.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e jaar/Advanced Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/_deps/sfml-build/src/SFML/System"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DSFML_STATIC"/>
+					<Add directory="/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e jaar/Advanced Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/_deps/sfml-src/include"/>
+					<Add directory="/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e jaar/Advanced Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/_deps/sfml-src/src"/>
+					<Add directory="/usr/include/c++/13"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/13"/>
+					<Add directory="/usr/include/c++/13/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/13/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e\ jaar/Advanced\ Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/_deps/sfml-build/src/SFML/System/Makefile&quot;  VERBOSE=1 sfml-system/fast"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e\ jaar/Advanced\ Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/_deps/sfml-build/src/SFML/System/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e\ jaar/Advanced\ Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/_deps/sfml-build/src/SFML/System/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e\ jaar/Advanced\ Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/_deps/sfml-build/src/SFML/System/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sfml-window">
+				<Option output="/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e jaar/Advanced Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/_deps/sfml-build/lib/libsfml-window-s-d.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e jaar/Advanced Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/_deps/sfml-build/src/SFML/Window"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DSFML_STATIC"/>
+					<Add directory="/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e jaar/Advanced Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/_deps/sfml-src/include"/>
+					<Add directory="/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e jaar/Advanced Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/_deps/sfml-src/src"/>
+					<Add directory="/usr/include/c++/13"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/13"/>
+					<Add directory="/usr/include/c++/13/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/13/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e\ jaar/Advanced\ Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/_deps/sfml-build/src/SFML/Window/Makefile&quot;  VERBOSE=1 sfml-window"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e\ jaar/Advanced\ Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/_deps/sfml-build/src/SFML/Window/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e\ jaar/Advanced\ Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/_deps/sfml-build/src/SFML/Window/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e\ jaar/Advanced\ Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/_deps/sfml-build/src/SFML/Window/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sfml-window/fast">
+				<Option output="/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e jaar/Advanced Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/_deps/sfml-build/lib/libsfml-window-s-d.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e jaar/Advanced Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/_deps/sfml-build/src/SFML/Window"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DSFML_STATIC"/>
+					<Add directory="/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e jaar/Advanced Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/_deps/sfml-src/include"/>
+					<Add directory="/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e jaar/Advanced Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/_deps/sfml-src/src"/>
+					<Add directory="/usr/include/c++/13"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/13"/>
+					<Add directory="/usr/include/c++/13/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/13/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e\ jaar/Advanced\ Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/_deps/sfml-build/src/SFML/Window/Makefile&quot;  VERBOSE=1 sfml-window/fast"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e\ jaar/Advanced\ Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/_deps/sfml-build/src/SFML/Window/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e\ jaar/Advanced\ Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/_deps/sfml-build/src/SFML/Window/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e\ jaar/Advanced\ Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/_deps/sfml-build/src/SFML/Window/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sfml-network">
+				<Option output="/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e jaar/Advanced Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/_deps/sfml-build/lib/libsfml-network-s-d.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e jaar/Advanced Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/_deps/sfml-build/src/SFML/Network"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DSFML_STATIC"/>
+					<Add directory="/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e jaar/Advanced Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/_deps/sfml-src/include"/>
+					<Add directory="/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e jaar/Advanced Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/_deps/sfml-src/src"/>
+					<Add directory="/usr/include/c++/13"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/13"/>
+					<Add directory="/usr/include/c++/13/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/13/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e\ jaar/Advanced\ Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/_deps/sfml-build/src/SFML/Network/Makefile&quot;  VERBOSE=1 sfml-network"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e\ jaar/Advanced\ Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/_deps/sfml-build/src/SFML/Network/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e\ jaar/Advanced\ Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/_deps/sfml-build/src/SFML/Network/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e\ jaar/Advanced\ Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/_deps/sfml-build/src/SFML/Network/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sfml-network/fast">
+				<Option output="/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e jaar/Advanced Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/_deps/sfml-build/lib/libsfml-network-s-d.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e jaar/Advanced Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/_deps/sfml-build/src/SFML/Network"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DSFML_STATIC"/>
+					<Add directory="/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e jaar/Advanced Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/_deps/sfml-src/include"/>
+					<Add directory="/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e jaar/Advanced Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/_deps/sfml-src/src"/>
+					<Add directory="/usr/include/c++/13"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/13"/>
+					<Add directory="/usr/include/c++/13/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/13/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e\ jaar/Advanced\ Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/_deps/sfml-build/src/SFML/Network/Makefile&quot;  VERBOSE=1 sfml-network/fast"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e\ jaar/Advanced\ Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/_deps/sfml-build/src/SFML/Network/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e\ jaar/Advanced\ Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/_deps/sfml-build/src/SFML/Network/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e\ jaar/Advanced\ Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/_deps/sfml-build/src/SFML/Network/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sfml-graphics">
+				<Option output="/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e jaar/Advanced Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/_deps/sfml-build/lib/libsfml-graphics-s-d.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e jaar/Advanced Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/_deps/sfml-build/src/SFML/Graphics"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DSFML_STATIC"/>
+					<Add option="-DSTBI_FAILURE_USERMSG"/>
+					<Add directory="/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e jaar/Advanced Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/_deps/sfml-src/include"/>
+					<Add directory="/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e jaar/Advanced Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/_deps/sfml-src/src"/>
+					<Add directory="/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e jaar/Advanced Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/_deps/sfml-src/extlibs/headers/stb_image"/>
+					<Add directory="/usr/include/freetype2"/>
+					<Add directory="/usr/include/c++/13"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/13"/>
+					<Add directory="/usr/include/c++/13/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/13/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e\ jaar/Advanced\ Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/_deps/sfml-build/src/SFML/Graphics/Makefile&quot;  VERBOSE=1 sfml-graphics"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e\ jaar/Advanced\ Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/_deps/sfml-build/src/SFML/Graphics/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e\ jaar/Advanced\ Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/_deps/sfml-build/src/SFML/Graphics/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e\ jaar/Advanced\ Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/_deps/sfml-build/src/SFML/Graphics/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sfml-graphics/fast">
+				<Option output="/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e jaar/Advanced Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/_deps/sfml-build/lib/libsfml-graphics-s-d.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e jaar/Advanced Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/_deps/sfml-build/src/SFML/Graphics"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DSFML_STATIC"/>
+					<Add option="-DSTBI_FAILURE_USERMSG"/>
+					<Add directory="/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e jaar/Advanced Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/_deps/sfml-src/include"/>
+					<Add directory="/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e jaar/Advanced Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/_deps/sfml-src/src"/>
+					<Add directory="/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e jaar/Advanced Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/_deps/sfml-src/extlibs/headers/stb_image"/>
+					<Add directory="/usr/include/freetype2"/>
+					<Add directory="/usr/include/c++/13"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/13"/>
+					<Add directory="/usr/include/c++/13/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/13/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e\ jaar/Advanced\ Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/_deps/sfml-build/src/SFML/Graphics/Makefile&quot;  VERBOSE=1 sfml-graphics/fast"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e\ jaar/Advanced\ Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/_deps/sfml-build/src/SFML/Graphics/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e\ jaar/Advanced\ Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/_deps/sfml-build/src/SFML/Graphics/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e\ jaar/Advanced\ Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/_deps/sfml-build/src/SFML/Graphics/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sfml-audio">
+				<Option output="/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e jaar/Advanced Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/_deps/sfml-build/lib/libsfml-audio-s-d.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e jaar/Advanced Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/_deps/sfml-build/src/SFML/Audio"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DSFML_STATIC"/>
+					<Add option="-DOV_EXCLUDE_STATIC_CALLBACKS"/>
+					<Add option="-DFLAC__NO_DLL"/>
+					<Add directory="/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e jaar/Advanced Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/_deps/sfml-src/include"/>
+					<Add directory="/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e jaar/Advanced Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/_deps/sfml-src/src"/>
+					<Add directory="/usr/include/AL"/>
+					<Add directory="/usr/include/c++/13"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/13"/>
+					<Add directory="/usr/include/c++/13/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/13/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e\ jaar/Advanced\ Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/_deps/sfml-build/src/SFML/Audio/Makefile&quot;  VERBOSE=1 sfml-audio"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e\ jaar/Advanced\ Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/_deps/sfml-build/src/SFML/Audio/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e\ jaar/Advanced\ Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/_deps/sfml-build/src/SFML/Audio/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e\ jaar/Advanced\ Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/_deps/sfml-build/src/SFML/Audio/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sfml-audio/fast">
+				<Option output="/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e jaar/Advanced Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/_deps/sfml-build/lib/libsfml-audio-s-d.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e jaar/Advanced Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/_deps/sfml-build/src/SFML/Audio"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DSFML_STATIC"/>
+					<Add option="-DOV_EXCLUDE_STATIC_CALLBACKS"/>
+					<Add option="-DFLAC__NO_DLL"/>
+					<Add directory="/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e jaar/Advanced Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/_deps/sfml-src/include"/>
+					<Add directory="/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e jaar/Advanced Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/_deps/sfml-src/src"/>
+					<Add directory="/usr/include/AL"/>
+					<Add directory="/usr/include/c++/13"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/13"/>
+					<Add directory="/usr/include/c++/13/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/13/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/mnt/

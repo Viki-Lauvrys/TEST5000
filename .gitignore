@@ -1,0 +1,13 @@
+cmake-build-debug/
+sfml-audio-2.dllca
+sfml-graphics-2.dll
+sfml-network-2.dll
+sfml-system-2.dll
+sfml-window-2.dll
+sfml-audio-2.dll
+license.md
+.idea/vcs.xml
+.idea/modules.xml
+.idea/misc.xml
+.idea/2024-project-Viki-Lauvrys.iml
+.idea/.name

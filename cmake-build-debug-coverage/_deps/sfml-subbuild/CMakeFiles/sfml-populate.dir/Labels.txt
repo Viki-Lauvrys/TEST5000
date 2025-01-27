@@ -1,0 +1,14 @@
+# Target labels
+ sfml-populate
+# Source files and their labels
+C:/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e_jaar/Advanced_Programming/2024-project-Viki-Lauvrys/cmake-build-debug-coverage/_deps/sfml-subbuild/CMakeFiles/sfml-populate
+C:/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e_jaar/Advanced_Programming/2024-project-Viki-Lauvrys/cmake-build-debug-coverage/_deps/sfml-subbuild/CMakeFiles/sfml-populate.rule
+C:/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e_jaar/Advanced_Programming/2024-project-Viki-Lauvrys/cmake-build-debug-coverage/_deps/sfml-subbuild/CMakeFiles/sfml-populate-complete.rule
+C:/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e_jaar/Advanced_Programming/2024-project-Viki-Lauvrys/cmake-build-debug-coverage/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build.rule
+C:/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e_jaar/Advanced_Programming/2024-project-Viki-Lauvrys/cmake-build-debug-coverage/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure.rule
+C:/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e_jaar/Advanced_Programming/2024-project-Viki-Lauvrys/cmake-build-debug-coverage/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-download.rule
+C:/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e_jaar/Advanced_Programming/2024-project-Viki-Lauvrys/cmake-build-debug-coverage/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install.rule
+C:/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e_jaar/Advanced_Programming/2024-project-Viki-Lauvrys/cmake-build-debug-coverage/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-mkdir.rule
+C:/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e_jaar/Advanced_Programming/2024-project-Viki-Lauvrys/cmake-build-debug-coverage/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch.rule
+C:/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e_jaar/Advanced_Programming/2024-project-Viki-Lauvrys/cmake-build-debug-coverage/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test.rule
+C:/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e_jaar/Advanced_Programming/2024-project-Viki-Lauvrys/cmake-build-debug-coverage/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update.rule

@@ -1,0 +1,25 @@
+var class_d_o_o_d_l_e___j_u_m_p_1_1_logic_1_1_platform =
+[
+    [ "Platform", "class_d_o_o_d_l_e___j_u_m_p_1_1_logic_1_1_platform.html#acdb8b870b53d3aa6e60a3249c8fca37e", null ],
+    [ "getBonus", "class_d_o_o_d_l_e___j_u_m_p_1_1_logic_1_1_platform.html#a56571ec6b7be250eff304a13460c5f3f", null ],
+    [ "getColor", "class_d_o_o_d_l_e___j_u_m_p_1_1_logic_1_1_platform.html#a83596739fed185af70602797b94fe4af", null ],
+    [ "getTrueX", "class_d_o_o_d_l_e___j_u_m_p_1_1_logic_1_1_platform.html#a1dda5024ecc3a8bb7e1fee7a3a79f880", null ],
+    [ "getTrueY", "class_d_o_o_d_l_e___j_u_m_p_1_1_logic_1_1_platform.html#a8826fc53294c5147f187d7b7c5b7595c", null ],
+    [ "getType", "class_d_o_o_d_l_e___j_u_m_p_1_1_logic_1_1_platform.html#a93014d4a783dfe5e210f28154eb6a102", null ],
+    [ "getX", "class_d_o_o_d_l_e___j_u_m_p_1_1_logic_1_1_platform.html#a8157f9e22bec5fd8017c67871f47822c", null ],
+    [ "getY", "class_d_o_o_d_l_e___j_u_m_p_1_1_logic_1_1_platform.html#aa9ca9616585640b03aec9e4ef7429dea", null ],
+    [ "isJumpedOn", "class_d_o_o_d_l_e___j_u_m_p_1_1_logic_1_1_platform.html#a28cb354db07d5949e53c7ca7cda29164", null ],
+    [ "move", "class_d_o_o_d_l_e___j_u_m_p_1_1_logic_1_1_platform.html#a5a6b000249a9b8d40edf39acce162bab", null ],
+    [ "setBonus", "class_d_o_o_d_l_e___j_u_m_p_1_1_logic_1_1_platform.html#a6c1c712382ba550ba7d521048ec29f71", null ],
+    [ "setJumpedOn", "class_d_o_o_d_l_e___j_u_m_p_1_1_logic_1_1_platform.html#ae471012ccf905e95dd1cde4d3818cc89", null ],
+    [ "setType", "class_d_o_o_d_l_e___j_u_m_p_1_1_logic_1_1_platform.html#af78b4a68e8a0e4eddd04413ce54e6225", null ],
+    [ "setX", "class_d_o_o_d_l_e___j_u_m_p_1_1_logic_1_1_platform.html#a3ee90bef9e4d96db599739ab496d9d06", null ],
+    [ "setY", "class_d_o_o_d_l_e___j_u_m_p_1_1_logic_1_1_platform.html#ad697ffc088610e82f101de386cc16b28", null ],
+    [ "update", "class_d_o_o_d_l_e___j_u_m_p_1_1_logic_1_1_platform.html#a220e7b1d32adfd849cba37058a26b88e", null ],
+    [ "bonus", "class_d_o_o_d_l_e___j_u_m_p_1_1_logic_1_1_platform.html#a854db2f3ad95eedb5dbd175d9a084d0d", null ],
+    [ "color", "class_d_o_o_d_l_e___j_u_m_p_1_1_logic_1_1_platform.html#a8b94400b672f801a26b4cd9ae14893cc", null ],
+    [ "jumpedOn", "class_d_o_o_d_l_e___j_u_m_p_1_1_logic_1_1_platform.html#a32627050257955c5741cee29a81d5948", null ],
+    [ "type", "class_d_o_o_d_l_e___j_u_m_p_1_1_logic_1_1_platform.html#acd5322a805d271b2d34187df05db2293", null ],
+    [ "x", "class_d_o_o_d_l_e___j_u_m_p_1_1_logic_1_1_platform.html#a117b10a1d08b0394493d01fa97fdadaa", null ],
+    [ "y", "class_d_o_o_d_l_e___j_u_m_p_1_1_logic_1_1_platform.html#af807b92358f288d280ef1762ee1b03a7", null ]
+];

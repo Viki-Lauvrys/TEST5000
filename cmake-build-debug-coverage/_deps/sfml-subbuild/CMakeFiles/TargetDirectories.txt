@@ -1,0 +1,3 @@
+C:/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e_jaar/Advanced_Programming/2024-project-Viki-Lauvrys/cmake-build-debug-coverage/_deps/sfml-subbuild/CMakeFiles/sfml-populate.dir
+C:/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e_jaar/Advanced_Programming/2024-project-Viki-Lauvrys/cmake-build-debug-coverage/_deps/sfml-subbuild/CMakeFiles/edit_cache.dir
+C:/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e_jaar/Advanced_Programming/2024-project-Viki-Lauvrys/cmake-build-debug-coverage/_deps/sfml-subbuild/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,14 @@
+C:\Windows\system32\wsl.exe --distribution Ubuntu --exec /bin/bash -c "export CMAKE_COLOR_DIAGNOSTICS=ON && export CLION_IDE=TRUE && export JETBRAINS_IDE=TRUE && cd /mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e_jaar/Advanced_Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile && /opt/cmake-3.20.5/bin/cmake -DCMAKE_BUILD_TYPE=Debug -Wno-dev -G 'CodeBlocks - Unix Makefiles' -S /mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e_jaar/Advanced_Programming/2024-project-Viki-Lauvrys -B /mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e_jaar/Advanced_Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile"
+CMake Error: The current CMakeCache.txt directory /mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e_jaar/Advanced_Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/_deps/sfml-subbuild/CMakeCache.txt is different than the directory /mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e jaar/Advanced Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/_deps/sfml-subbuild where CMakeCache.txt was created. This may result in binaries being created in the wrong place. If you are not sure, reedit the CMakeCache.txt
+
+CMake Error at /opt/cmake-3.20.5/share/cmake-3.20/Modules/FetchContent.cmake:1000 (message):
+  CMake step for sfml failed: 1
+Call Stack (most recent call first):
+  /opt/cmake-3.20.5/share/cmake-3.20/Modules/FetchContent.cmake:1141:EVAL:2 (__FetchContent_directPopulate)
+  /opt/cmake-3.20.5/share/cmake-3.20/Modules/FetchContent.cmake:1141 (cmake_language)
+  /opt/cmake-3.20.5/share/cmake-3.20/Modules/FetchContent.cmake:1184 (FetchContent_Populate)
+  CMakeLists.txt:8 (FetchContent_MakeAvailable)
+
+
+-- Configuring incomplete, errors occurred!
+See also "/mnt/c/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e_jaar/Advanced_Programming/2024-project-Viki-Lauvrys/cmake-build-wsl_profile/CMakeFiles/CMakeOutput.log".

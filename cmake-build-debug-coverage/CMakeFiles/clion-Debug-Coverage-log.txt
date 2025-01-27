@@ -1,0 +1,23 @@
+"C:\Program Files\JetBrains\CLion 2023.2.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_CXX_FLAGS=--coverage -DCMAKE_C_FLAGS=--coverage -G "CodeBlocks - MinGW Makefiles" -S C:\Users\vikil\OneDrive\Documenten\IT_Uantwerpen\2e_jaar\Advanced_Programming\2024-project-Viki-Lauvrys -B C:\Users\vikil\OneDrive\Documenten\IT_Uantwerpen\2e_jaar\Advanced_Programming\2024-project-Viki-Lauvrys\cmake-build-debug-coverage
+[ 11%] Performing update step for 'sfml-populate'
+CMake Error at C:/Users/vikil/OneDrive/Documenten/IT_Uantwerpen/2e_jaar/Advanced_Programming/2024-project-Viki-Lauvrys/cmake-build-debug-coverage/_deps/sfml-subbuild/sfml-populate-prefix/tmp/sfml-populate-gitupdate.cmake:25 (message):
+  Failed to get the hash for HEAD:
+
+  fatal: not a git repository: '.git'
+
+
+
+mingw32-make[2]: *** [CMakeFiles\sfml-populate.dir\build.make:129: sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update] Error 1
+mingw32-make[1]: *** [CMakeFiles\Makefile2:82: CMakeFiles/sfml-populate.dir/all] Error 2
+mingw32-make: *** [Makefile:90: all] Error 2
+
+CMake Error at C:/Program Files/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/FetchContent.cmake:1622 (message):
+  Build step for sfml failed: 2
+Call Stack (most recent call first):
+  C:/Program Files/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/FetchContent.cmake:1762:EVAL:2 (__FetchContent_directPopulate)
+  C:/Program Files/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/FetchContent.cmake:1762 (cmake_language)
+  C:/Program Files/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/FetchContent.cmake:1976 (FetchContent_Populate)
+  CMakeLists.txt:8 (FetchContent_MakeAvailable)
+
+
+-- Configuring incomplete, errors occurred!
